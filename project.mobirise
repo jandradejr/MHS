@@ -1,0 +1,618 @@
+{
+  "settings": {
+    "name": "MHS 2",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "colorm",
+      "title": "ColorM",
+      "styling": {
+        "primaryColor": "#f39c12",
+        "buttonsColor": "#000000",
+        "secondaryColor": "#9b59b6",
+        "successColor": "#2ecc71",
+        "infoColor": "#3498db",
+        "warningColor": "#f1c40f",
+        "dangerColor": "#e74c3c",
+        "titleFont": "Arvo",
+        "subtitleFont": "Montserrat",
+        "textFont": "Open Sans",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false
+      },
+      "additionalSetColors": [
+        "#70c5de",
+        "#0c0e79",
+        "#f1e195",
+        "#040538",
+        "#f8f4de"
+      ]
+    },
+    "versionFirst": "4.3.4",
+    "uniqCompNum": 17,
+    "versionPublish": "4.3.4"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "src": "https://vimeo.com/243775485",
+              "autoplay": "on",
+              "loop": "on"
+            }
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-e"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#f8f4de"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">BROKERAGE</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">SERVICE</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-g"
+        },
+        {
+          "_inherit": "news1",
+          "_params": {
+            "showImages": true,
+            "showTitle": true,
+            "showText": true,
+            "showDate": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/features/03.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#ecf0f1",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/OhfwGCXf5D0?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://youtu.be/OhfwGCXf5D0",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.7",
+            "news": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/seawind-bow-2000x788.jpg",
+                "title": "Seawind Catamarans<div><i>&nbsp;Australia's most popular cruising sail and power catamarans</i></div>",
+                "text": "With 27 years experience building mullihulls. Seawind’s Richard Ward wanted to build a cruising catamaran specifically designed for serious blue water cruising. The result was the Seawind 1250, 41ft of the best ideas, engineering and craftsmanship accumulated by his team of expert builders. However, before releasing the new model to production, Richard wanted to put the boat through Its paces and personally sailed the first Seawind 1250 across the notorious Bass Strait to test her seaworthiness. Impressed by the boats performance, but still not satisfied.Seawind’s delivery skipper was ordered to sail the 1250 across the Tasman Sea to New Zealand and back, over some of the worst sea conditions in the world and do his best to -Break It” , After successfully completing a 6,000 NM ocean sea trial, Richard is finally satisfied .<br><br>Now you can cruise In the confidence that Seawind has pushed the limits to produce a boat that will take you to the limits.",
+                "date": "<a href=\"http://multihullsource.sayitright.com/channels/seawind-catamaran/programs/seawind-catamaran\">learn more</a>",
+                "wide": true,
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-8588-2000x1125.jpg",
+                "title": "Sales and Service in Wareham, MA",
+                "text": "The Multihull Source is a full service boat yard handling all your service needs like launching, painting, glass work, engine work and electrical work.<br><br>We have moorings, limited dock space, a travel lift and a railway to be able to accommodate your needs.  Winter storage and off season boat maintenance and improvements is what many of our customers have used us for.<br><br>Our diesel trucks regularly do pick up and delivery throughout the US. This has helped manyof our Corsair owners but you might be surprised to hear about many of the items wem have transported.<br><br>",
+                "date": "<a href=\"http://multihullsource.sayitright.com/channels/about-outremer-usa\">about us</a>",
+                "wide": false,
+                "active": true
+              }
+            ]
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            "DIV": {
+              "color": "#3498db",
+              "font-size": "24px"
+            },
+            "H5": {
+              "font-size": "30px",
+              "color": "#0c0e79"
+            }
+          },
+          "_name": "news2",
+          "_anchor": "news2-5"
+        },
+        {
+          "_styles": {
+            "H5": {
+              "color": "#3498db"
+            }
+          },
+          "_params": {
+            "showImages": true,
+            "showTitle": true,
+            "showText": true,
+            "showDate": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/seawind-bow-2000x788.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.9,
+            "news": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/corsair-f31crop-2000x799.jpg",
+                "title": "Corsair Trimarans",
+                "text": "Corsair Trimarans are versatile, exciting and offer superb performance for racing and cruising with the family. They also feature unique trailerability (trailer to sailing in 30 minutes), shallow draft and uncompromised comfort and safety. All of The Multihull Source team members own and race Corsair trimarans - no other dealer can offer more knowledge about all the different models.",
+                "date": "<a href=\"http://multihullsource.sayitright.com/channels/corsair-trimarans/programs/corsair-trimarans\">LEARN MORE</a>",
+                "wide": true,
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/weta-640x360.jpg",
+                "title": "Weta Trimarans",
+                "text": "Lightweight and simple, the WETA can be rigged and beach launched by a single person in 20 minutes.<br>The WETA trimaran is a great performing 4.4 m or 14'5\" triamaran. Only a WETA can be sailed with one, two or three sails blazing by one, two or three people!<br><br>No wonder it was Boat of the Year in 2010!",
+                "date": "<a href=\"http://multihullsource.sayitright.com/channels/weta-trimaran\">LEARN MORE</a>",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/windrider-640x360.jpg",
+                "title": "WindRider Trimarans",
+                "text": "The WindRider Trimarans let anyone enjoy the thrill of performance sailing. Simple to assemble and rig, it's also exceptionally easy to sail. The Windrider 17 is an incredibly easy boat to sail that is all but impossible to capsize. The two cockpits make for fun double handed sailing. Once you're seated in WindRider's comfortable, enclosed cockpit, you'll find simple, intuitive controls: foot pedals for steering (tiller extensions are optional) and a mainsail sheet. You're free to sit back and watch the world rush by. ",
+                "date": "LEARN MORE",
+                "wide": false,
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/searail-1280x404.jpg",
+                "title": "Nigel Iren's design SeaRail 19&nbsp;",
+                "text": "The SR-19 is an exciting, affordable, light-weight, trailerable trimaran built to cater to a wide rangel of sailors. Whether it's day saling with your family, resort sailing or camper sailing, the SeaRail 19 is an ideal leisure trimaran. However, If you have the need for speed try sailing this tri competitively with either friends or single handed. The SR-19 can be transferred from trailer to water or vice versa, ready to sail, in just 15 minutes!",
+                "date": "10 june 2016",
+                "wide": true,
+                "active": false
+              }
+            ]
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "news1",
+          "_anchor": "news1-d"
+        },
+        {
+          "_inherit": "news1",
+          "_params": {
+            "showImages": true,
+            "showTitle": true,
+            "showText": true,
+            "showDate": true,
+            "paddingTop": 2,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/features/03.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/zmiQ85OYbJ4?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://youtu.be/zmiQ85OYbJ4",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.9,
+            "news": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/rapido-640x360.jpg",
+                "title": "<a href=\"http://multihullsource.sayitright.com/channels/windrider-trimaran/programs/windrider-trimaran-multihull\" class=\"text-info\">RAPIDO Trimarans</a>",
+                "text": "Trimarans are fun because they enable you to discover places that others cannot venture to. The draft of the Rapido 60 is only 0.75m when the rudder blade and dagger board are retracted, which facilitates shallow water navigation and anchorage. Comfortable nets 6.3m x 3m on both sides of the Rapido 60 provide an enormous space to play or lounge when the fish are not biting",
+                "date": "<a href=\"http://multihullsource.sayitright.com/channels/morrelli-melvin-hh-catamaran/programs/rapido-60-trimaran\">LEARN MORE</a>",
+                "wide": false,
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/hh2-crop-2000x556.jpg",
+                "title": "MORELLI &amp; MELVIN HH CATAMARANS",
+                "text": "Morrelli &amp; Melvin have designed Gunboat luxury sailing catamarans blending racing performance with the the finest level of comfort and amenities. Morrelli &amp; Melvin has a fantastic track record of designing creative, sound, safe, energy efficient, fun and fast multihulls and monohulls and we go the extra distance to ensure that they get built to our specifications.",
+                "date": "<a href=\"http://multihullsource.sayitright.com/channels/morrelli-melvin-hh-catamaran/programs/morelli-melvin-hh-catamarans\">Learn more here</a>",
+                "wide": true,
+                "active": true
+              }
+            ]
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            "H5": {
+              "color": "#3498db"
+            }
+          },
+          "_name": "news3",
+          "_anchor": "news3-6"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/searail-1280x404.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#ecf0f1",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ecf0f1",
+            "overlayOpacity": 0.85
+          },
+          "title": "Get on our A list!",
+          "text": "We'll keep you updated about events, models, boats, tips and more when you subscribe to&nbsp;<br>our private mailing list. Stay in touch with us!",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\"><span class=\"cm-icon cm-icon-paperplane\"></span></a>",
+          "form": {
+            "action": "joe@sayitright.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              }
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "intro5",
+          "_anchor": "intro5-f"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.875rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.948rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "@primaryColor"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#ffffff"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#217dbb"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#2791d9!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#3498db"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f39c12!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#3498db",
+            "fontSize": 0.875,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">NEW BOATS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Corsair</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Seawind</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">HH</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Windrider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Weta</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">SeaRail</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PRE-OWNED BOATS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">RESOURCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Service</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Manuals</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Parts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Acessories</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mhslogo-128x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://multihullsource.sayitright.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-0"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "rows": "1",
+            "bgItem1": "#f5f5f5",
+            "bgItem2": "#ffc80a",
+            "bgItem3": "#d2dde4",
+            "bgItem4": "#212121",
+            "paddingTop": 2,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/pricing-table/pricing-table-bg.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#ecf0f1",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Our Team",
+          "subtitle": "This new-found knowledge may then be used by engineers to create new tools and machines.",
+          "person1": "Bob Gleason &amp; Ira Heller",
+          "person2": "Mo betta",
+          "person3": "Barry Bostwick",
+          "person4": "Anna Cameron",
+          "subtitle1": "Partners",
+          "subtitle2": "Office Manager",
+          "subtitle3": "DESIGNER",
+          "subtitle4": "PHOTOGRAPHER",
+          "caption1": "Bob and Ira are experienced multihull racers and cruisers; they organize and participate in numerous sailing events throughout the year.",
+          "caption2": "Mo handles customer service and more<br><br>I konw she's shy but we need a pic and something to say here.&nbsp;<br>",
+          "caption3": "In daily life, maybe you have so familiar with a number of daily necessities, well, do you .",
+          "caption4": "Every year more than four million traffic lights use an estimated three billion .",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/bob-ira-truck-copy-600x454.jpg",
+              "class": "features-img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/face2.png",
+              "class": "features-img",
+              "width": 600
+            }
+          },
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/team/face3.png",
+              "class": "features-img",
+              "width": 600
+            }
+          },
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/team/face4.png",
+              "class": "features-img",
+              "width": 600
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "team1",
+          "_anchor": "team1-7"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showCat1": true,
+            "showCat2": true,
+            "showCat3": false,
+            "showText": true,
+            "showButtons": true,
+            "googleMap": {
+              "address": "3 Narrows Road, P.O. Box 951, Wareham, MA 02571",
+              "placeId": "EiQzIE5hcnJvd3MgUmQsIFdhcmVoYW0sIE1BIDAyNTcxLCBVU0E",
+              "state": "ok",
+              "stateDetails": ""
+            },
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-8592-2000x1125.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#ecf0f1",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "overlay": true,
+            "overlayColor": "#ecf0f1",
+            "overlayOpacity": "0.6"
+          },
+          "arrowDown": "@THEME_PATH@/components/_images/header/arrowDown.png",
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/features/03.jpg",
+              "class": ""
+            }
+          },
+          "title1": "The Multihull Source, <br>3 Narrows Road, P.O. Box 951, <br>Wareham, MA 02571",
+          "title2": "+1 &nbsp;508-295-0095",
+          "title3": "sample@sample.us",
+          "cat1": "address",
+          "cat2": "phone",
+          "cat3": "email",
+          "text": "For the fastest, most fun way to hit the water since the Phoenicians invented the lanteen rig",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-pinterest\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-skype\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin\"></span></a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-8"
+        },
+        {
+          "_styles": {
+            ".mbr-section-subtitle, .mbr-section-text": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "margin-bottom": "20px",
+              "margin-top": "0"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showTitles": true,
+            "showButtons": false,
+            "paddingTop": 2,
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mhslogo-128x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title1": "product",
+          "text11": "Corsair",
+          "text12": "Seawind",
+          "text13": "HH<br>Rapido",
+          "text14": "Weta",
+          "text15": "Windrider<br>Sea Rail 19",
+          "title2": "company",
+          "text21": "Press",
+          "text22": "About",
+          "text23": "Mission",
+          "text24": "",
+          "text25": "",
+          "title3": "Learn more",
+          "text31": "Support",
+          "text32": "Manuals &amp; Guides",
+          "text33": "Service",
+          "text34": "Acessories",
+          "text35": "FAQ",
+          "titled1": "Privacy policy",
+          "titled2": "Terms &amp; Conditions",
+          "titled3": "Copyright&nbsp;",
+          "followtext": "follow us",
+          "text": "Copyright (c) 2017 The Multihull Source",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer3",
+          "_anchor": "footer3-a"
+        }
+      ]
+    }
+  }
+}
