@@ -29,7 +29,7 @@
       ]
     },
     "versionFirst": "4.3.4",
-    "uniqCompNum": 17,
+    "uniqCompNum": 20,
     "versionPublish": "4.3.4"
   },
   "pages": {
@@ -381,7 +381,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">NEW BOATS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Corsair</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Seawind</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">HH</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Windrider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Weta</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">SeaRail</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PRE-OWNED BOATS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">RESOURCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Service</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Manuals</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Parts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Acessories</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">NEW BOATS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Corsair</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Seawind</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">HH</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Windrider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Weta</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">SeaRail</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PRE-OWNED BOATS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">RESOURCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Service</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Manuals</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Parts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Acessories</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">How To...</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -433,15 +433,15 @@
           "title": "Our Team",
           "subtitle": "This new-found knowledge may then be used by engineers to create new tools and machines.",
           "person1": "Bob Gleason &amp; Ira Heller",
-          "person2": "Mo betta",
+          "person2": "Ira Heller",
           "person3": "Barry Bostwick",
           "person4": "Anna Cameron",
           "subtitle1": "Partners",
-          "subtitle2": "Office Manager",
+          "subtitle2": "Partner",
           "subtitle3": "DESIGNER",
           "subtitle4": "PHOTOGRAPHER",
           "caption1": "Bob and Ira are experienced multihull racers and cruisers; they organize and participate in numerous sailing events throughout the year.",
-          "caption2": "Mo handles customer service and more<br><br>I konw she's shy but we need a pic and something to say here.&nbsp;<br>",
+          "caption2": "Backgrond on IRA.&nbsp;<br>",
           "caption3": "In daily life, maybe you have so familiar with a number of daily necessities, well, do you .",
           "caption4": "Every year more than four million traffic lights use an estimated three billion .",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
@@ -462,9 +462,12 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/face2.png",
+              "src": "@PROJECT_PATH@/assets/images/mbr-717x1080.jpg",
               "class": "features-img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media3": {
@@ -489,6 +492,69 @@
           ],
           "_name": "team1",
           "_anchor": "team1-7"
+        },
+        {
+          "_styles": {
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase"
+            },
+            ".form-control-label": {}
+          },
+          "_params": {
+            "showSubtitle": false,
+            "showTitle": true,
+            "showText": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/vhf-radio-1920x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#ecf0f1",
+            "overlay": false,
+            "overlayColor": "#ecf0f1",
+            "overlayOpacity": 0.5
+          },
+          "iconName": "<img src=\"@PROJECT_PATH@/assets/images/icon-name.png\">",
+          "iconEmail": "<img src=\"@PROJECT_PATH@/assets/images/icon-email.png\">",
+          "iconPhone": "<img src=\"@PROJECT_PATH@/assets/images/icon-phone.png\">",
+          "title": "CONTACT FORM",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem nobis, ea amet non commodi voluptate. Aspernatur libero cumque in unde et culpa corrupti asperiores praesentium voluptatum iure dolores illo nihil saepe distinctio eaque explicabo quis ipsam sed consectetur, accusantium ex qui. Voluptas nam consectetur, dolorem sed quo qui iusto dolor!",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
+          "form": {
+            "action": "sailfast@multihullsource.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-j"
         },
         {
           "_styles": {},
@@ -533,7 +599,7 @@
           "cat2": "phone",
           "cat3": "email",
           "text": "For the fastest, most fun way to hit the water since the Phoenicians invented the lanteen rig",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-pinterest\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-skype\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin\"></span></a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-pinterest\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook\"></span></a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -542,15 +608,6 @@
           "_anchor": "contacts2-8"
         },
         {
-          "_styles": {
-            ".mbr-section-subtitle, .mbr-section-text": {
-              "color": "#fff"
-            },
-            ".mbr-section-subtitle": {
-              "margin-bottom": "20px",
-              "margin-top": "0"
-            }
-          },
           "_params": {
             "logo": true,
             "showTitles": true,
@@ -603,14 +660,19 @@
           "titled2": "Terms &amp; Conditions",
           "titled3": "Copyright&nbsp;",
           "followtext": "follow us",
-          "text": "Copyright (c) 2017 The Multihull Source",
+          "text": "Copyright (c) 2017 The Multihull Source •&nbsp;<div class=\"card-img iconbox\"><a href=\"https://mobirise.com\" class=\"mbri-setting3 mbr-iconfont mbr-iconfont-features4\" style=\"color: rgb(255, 255, 255);\"></a></div>&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
           ],
           "_name": "footer3",
-          "_anchor": "footer3-a"
+          "_anchor": "footer3-a",
+          "_customHTML": "<footer class=\"mbr-small-footer mbr-section mbr-section-nopadding footer1\" data-rv-view=\"210\" style=\"background-color: rgb(52, 152, 219); padding-top: 1.75rem; padding-bottom: 2.625rem;\">\n    \n    <div class=\"container-fluid\">\n    \t<div class=\"row\">\n    \t\t<div class=\"col-xs-12 col-lg-10 col-lg-offset-1\">\n    \t\t\t<div class=\"footer-list col-xs-12\">\n    \t\t\t\t<div class=\"col-xs-12 col-md-4 text-xs-center text-md-left\">\n                        <p class=\"mbr-section-subtitle display-3 mbr-editable-content\" code-editable-id=\"139\">product</p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"140\">Corsair</p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"141\">Seawind</p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"142\">HH<br>Rapido</p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"143\">Weta</p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"144\">Windrider<br>Sea Rail 19</p>\n                    </div>\n                    <div class=\"col-xs-12 col-md-4 text-xs-center text-md-left\">\n                        <p class=\"mbr-section-subtitle display-3 mbr-editable-content\" code-editable-id=\"145\">company</p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"146\">Press</p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"147\">About</p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"148\"></p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"149\"></p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"150\"></p>\n                    </div>\n                    <div class=\"col-xs-12 col-md-4 text-xs-center text-md-left\">\n                        <p class=\"mbr-section-subtitle display-3 mbr-editable-content\" code-editable-id=\"151\">Learn more</p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"152\">Support</p>\n                        <p class=\"mbr-section-subtitle display-3 mbr-editable-content\" code-editable-id=\"153\">How To...</p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"154\">Manuals &amp; Guides</p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"155\">Service</p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"156\">Acessories</p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"157\">FAQ</p>\n                    </div>\n    \t\t\t</div>\n    \t\t\t\n    \t\t</div>\n    \t</div>\n        <div class=\"row second-line\">\n        <div class=\"col-xs-12 col-lg-10 col-lg-offset-1\">\n            <div class=\"col-xs-12 col-lg-3 text-xs-center text-lg-left table-cell-lg table-cell-middle\">\n                <div class=\"logo\"><a href=\"https://mobirise.com\"><img src=\"@PROJECT_PATH@/assets/images/mhslogo-128x128.jpg\" alt=\"Mobirise\"></a></div>\n            </div>\n            <div class=\"col-xs-12 col-lg-9 footer-list-2 table-cell-lg table-cell-middle\">\n                <div class=\"col-xs-12 col-md-4 text-xs-center text-md-left\">\n                    <p class=\"mbr-section-subtitle display-3 mbr-editable-content\" code-editable-id=\"158\">Privacy policy</p>\n                </div>\n                <div class=\"col-xs-12 col-md-4 text-xs-center text-md-left\">\n                    <p class=\"mbr-section-subtitle display-3 mbr-editable-content\" code-editable-id=\"159\">Terms &amp; Conditions</p>\n                </div>\n                <div class=\"col-xs-12 col-md-4 text-xs-center text-md-left\">\n                    <p class=\"mbr-section-subtitle display-3 mbr-editable-content\" code-editable-id=\"160\">Copyright&nbsp;</p>\n                </div>\n            </div>\n        </div>\n        </div>\n    </div>\n    <div class=\"container margin-top-40\">\n        <p class=\"text-xs-center mbr-section-text lead mbr-editable-content\" code-editable-id=\"161\">Copyright (c) 2017 The Multihull Source •&nbsp;</p><div class=\"card-img iconbox\"><a href=\"http://multihullsource.sayitright.com/hub/\" class=\"mbri-setting3 mbr-iconfont mbr-iconfont-features4\" style=\"color: rgb(255, 255, 255);\"></a></div>&nbsp;<p></p>\n    </div>\n</footer>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": ".mbr-section-subtitle, .mbr-section-text {\n  color: #fff;\n}\n.mbr-section-subtitle {\n  margin-bottom: 20px;\n  margin-top: 0;\n}\n",
+          "_customTemplate": true
         }
       ]
     }

@@ -799,6 +799,12 @@ blockquote {
 #menu-0 .dropdown-item[aria-expanded="true"] {
   color: #f39c12!important;
 }
+#form1-j .mbr-section-subtitle {
+  text-transform: uppercase;
+}
+#form1-j .form-control-label {
+  color: undefined;
+}
 #footer3-a .mbr-section-subtitle,
 #footer3-a .mbr-section-text {
   color: #fff;
