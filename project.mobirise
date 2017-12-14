@@ -30,7 +30,9 @@
     },
     "versionFirst": "4.3.4",
     "uniqCompNum": 20,
-    "versionPublish": "4.3.4"
+    "versionPublish": "4.3.4",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -314,63 +316,9 @@
           "_anchor": "intro5-f"
         },
         {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.875rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.948rem"
-            },
-            ".link:hover, .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
-              "background": "@primaryColor"
-            },
-            ".dropdown-item:hover, .dropdown-item:focus": {
-              "color": "#ffffff"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#217dbb"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#2791d9!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#3498db"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#f39c12!important"
-            }
-          },
           "_params": {
             "logo": true,
-            "showBrand": false,
+            "showBrand": true,
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
@@ -381,7 +329,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">NEW BOATS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Corsair</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Seawind</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">HH</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Windrider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Weta</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">SeaRail</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PRE-OWNED BOATS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">RESOURCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Service</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Manuals</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Parts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Acessories</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">How To...</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">NEW BOATS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Corsair</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Seawind</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">HH</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Windrider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Weta</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">SeaRail</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PRE-OWNED BOATS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">RESOURCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Service</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Manuals</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Parts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Acessories</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">How To...</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#form1-j\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -398,13 +346,18 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">THE MULTIHULL SOURCE • +1  508-295-0095&nbsp;&nbsp;</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
           ],
           "_name": "menu",
-          "_anchor": "menu-0"
+          "_anchor": "menu-0",
+          "_customHTML": "<section class=\"menu1\" data-rv-view=\"49\">\n\n    <nav class=\"navbar navbar-dropdown navbar-fixed-top\">\n        <div class=\"container-fluid\">\n\n            <div class=\"mbr-table\">\n                <div class=\"mbr-table-cell\">\n\n                    <div class=\"navbar-brand\">\n                        <a href=\"http://multihullsource.sayitright.com\" class=\"navbar-logo\"><img src=\"@PROJECT_PATH@/assets/images/mhslogo-128x128.jpg\" alt=\"Mobirise\"></a>\n                        <a class=\"navbar-caption\" href=\"https://mobirise.com\">THE MULTIHULL SOURCE • +1  508-295-0095&nbsp;&nbsp;</a>\n                    </div>\n\n                </div>\n                <div class=\"mbr-table-cell\">\n\n                    <button class=\"navbar-toggler pull-xs-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <span class=\"hamburger-icon\"></span>\n                    </button>\n\n                    <ul class=\"nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm\" id=\"exCollapsingNavbar\"><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"30\">ABOUT US</a></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\" code-editable-id=\"31\">NEW BOATS</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"32\">Corsair</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"33\">Seawind</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"34\">HH</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"35\">Windrider</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"36\">Weta</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"37\">SeaRail</a></div></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\" code-editable-id=\"38\">PRE-OWNED BOATS</a></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\" code-editable-id=\"39\">RESOURCES</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"#\" code-editable-id=\"40\">Service</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"#\" code-editable-id=\"41\">Manuals</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"#\" code-editable-id=\"42\">Parts</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"#\" code-editable-id=\"43\">Acessories</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"#\" code-editable-id=\"44\">How To...</a></div></li><li class=\"nav-item dropdown open\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\" code-editable-id=\"45\">HELP</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"http://forums.mobirise.com/\" code-editable-id=\"46\">Forum</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"47\">Tutorials</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"index.html#form1-j\" code-editable-id=\"48\">Contact us</a></div></li></ul>\n                    <button hidden=\"\" class=\"navbar-toggler navbar-close\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <span class=\"close-icon\"></span>\n                    </button>\n\n                </div>\n            </div>\n\n        </div>\n    </nav>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": ".hide-buttons .nav-btn {\n  display: none !important;\n}\n.navbar-caption {\n  color: #ffffff;\n}\n.navbar-toggler {\n  color: #ffffff;\n}\n.close-icon::before, .close-icon::after {\n  background-color: #ffffff;\n}\n.link, .dropdown-item {\n  color: #ffffff;\n}\n.link {\n  font-size: 0.875rem;\n}\n.dropdown-item, .nav-dropdown-sm .link {\n  font-size: 0.948rem;\n}\n.link:hover, .link:focus {\n  color: #f39c12;\n}\n.dropdown-item:hover::before, .dropdown-item:focus::before {\n  background: #f39c12;\n}\n.dropdown-item:hover, .dropdown-item:focus {\n  color: #ffffff;\n}\n.link[aria-expanded=\"true\"], .dropdown-menu {\n  background: #217dbb;\n}\n.nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover {\n  background: #2791d9!important;\n}\n.navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu {\n  background: #3498db;\n}\n.bg-color.transparent .link {\n  color: #ffffff;\n  transition: none;\n}\n.bg-color.transparent.opened .link {\n  transition: color .2s ease-in-out;\n}\n.bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus {\n  color: #f39c12;\n}\n.link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"] {\n  color: #f39c12!important;\n}\n",
+          "_customTemplate": true
         },
         {
           "_params": {
@@ -498,22 +451,25 @@
             ".mbr-section-subtitle": {
               "text-transform": "uppercase"
             },
-            ".form-control-label": {}
+            ".form-control-label": {},
+            ".mbr-section-title": {
+              "color": "#f39c12"
+            }
           },
           "_params": {
             "showSubtitle": false,
             "showTitle": true,
             "showText": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/vhf-radio-1920x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#ecf0f1",
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#ecf0f1",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.4"
           },
           "iconName": "<img src=\"@PROJECT_PATH@/assets/images/icon-name.png\">",
           "iconEmail": "<img src=\"@PROJECT_PATH@/assets/images/icon-email.png\">",
@@ -521,7 +477,7 @@
           "title": "CONTACT FORM",
           "subtitle": "Shape your future web project with sharp design and refine coded functions.",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem nobis, ea amet non commodi voluptate. Aspernatur libero cumque in unde et culpa corrupti asperiores praesentium voluptatum iure dolores illo nihil saepe distinctio eaque explicabo quis ipsam sed consectetur, accusantium ex qui. Voluptas nam consectetur, dolorem sed quo qui iusto dolor!",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
           "form": {
             "action": "sailfast@multihullsource.com",
             "alerts": {
